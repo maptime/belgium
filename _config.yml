@@ -1,4 +1,4 @@
-baseurl: /brussels
+baseurl: /belgium
 permalink: pretty
 future: true
 markdown: kramdown
@@ -6,7 +6,7 @@ paginate: 5
 repo: brussels
 github_org: maptime
 maptime:
-  chapter: MaptimeBrussels
+  chapter: MaptimeBE
   #twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
