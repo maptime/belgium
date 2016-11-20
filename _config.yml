@@ -7,7 +7,7 @@ repo: brussels
 github_org: maptime
 maptime:
   chapter: MaptimeBE
-  #twitter: TwitterHandle
+  twitter: osm_be
   #disqus: YOUR DISQUS USERNAME
 
 gems:
