@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Maptime Belgium
+author: Joost Schouppe
 ---
 
 We want to make open mapping easy! Watch this space to stay tuned for mapmaking activities all over Belgium, mostly in Brussels.
