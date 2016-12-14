@@ -4,7 +4,7 @@ future: true
 markdown: kramdown
 paginate: 5
 repo: belgium
-github_org: maptime
+github_org: osmbe
 maptime:
   chapter: Maptime Belgium
   twitter: osm_be
