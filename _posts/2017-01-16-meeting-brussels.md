@@ -1,11 +1,11 @@
 ---
 layout: event
 category: event
-title: OpenStreetMap meeting in Bruxelles on January, 16
+title: OpenStreetMap meeting in Brussels on January, 16
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/236264469/
 ---
 
-English | [Nederlands](#nl) | [Français](#fr)
+English ; [Nederlands](#nl) ; [Français](#fr)
 
 <a name="en"></a>Let's build a community with everybody interested in OpenStreetMap!
 
@@ -17,7 +17,7 @@ Tell us what you'd like discuss/present:share. You can add your them to our fram
 
 ---
 
-[English](#en) | Nederlands | [Français](#fr)
+[English](#en) ; Nederlands ; [Français](#fr)
 
 <a name="nl"></a>Kom langs en word deel van de OpenStreetMap familie !
 
@@ -31,7 +31,7 @@ Komt dus zeker langs!
 
 ---
 
-[English](#en) | [Nederlands](#nl) | Français
+[English](#en) ; [Nederlands](#nl) ; Français
 
 <a name="fr"></a>Construisons ensemble une communauté avec toutes les personnes intéressées par OpenStreepMap!
 
