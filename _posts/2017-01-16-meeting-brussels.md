@@ -45,7 +45,7 @@ Dîtes nous ce dont vous vous voulez discuter, partager ou présenter. Vous pouv
 
 **Location:**
 
-The Sister Brussels Café  
+[The Sister Brussels Café](http://www.thesister-brussels.com/)  
 Rue Chair et Pain 3 - 1000 Bruxelles
 
 <http://www.openstreetmap.org/node/4284192891>
