@@ -45,6 +45,7 @@ Dîtes nous ce dont vous vous voulez discuter, partager ou présenter. Vous pouv
 
 **Location:**
 
-[Café de Markten](http://www.demarkten.be/)
+The Sister Brussels Café  
+Rue Chair et Pain 3 - 1000 Bruxelles
 
-<http://www.openstreetmap.org/node/870247035>
+<http://www.openstreetmap.org/node/4284192891>
