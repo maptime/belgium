@@ -5,7 +5,7 @@ title: OpenStreetMap meeting in Brussels on January, 16
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/236264469/
 ---
 
-Let's build a community with everybody interested in OpenStreetMap!
+**Let's build a community with everybody interested in OpenStreetMap!**
 
 The target audience is everybody! From hearing the word OpenStreetMap a few seconds ago to the total expert in no time. There will be someone you can discuss and have a drink with we’re an interational community speaking English, Dutch, French so come join us!
 
