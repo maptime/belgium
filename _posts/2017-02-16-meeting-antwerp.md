@@ -14,7 +14,7 @@ Everybody is welcome, whether you've been mapping for ten years, or you just enc
 We're an international community and we speak Dutch, French and English, so come join us! 
 
 Version française sur la [page Meetup](https://www.meetup.com/OpenStreetMap-Belgium/events/237045116/)  
-Nederlands version op [Meetup pagina](https://www.meetup.com/OpenStreetMap-Belgium/events/237045116/)
+Nederlands versie op [Meetup pagina](https://www.meetup.com/OpenStreetMap-Belgium/events/237045116/)
 
 ---
 
