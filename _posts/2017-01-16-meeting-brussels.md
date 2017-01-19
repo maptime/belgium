@@ -13,8 +13,8 @@ Tell us what you'd like discuss/present:share. You can add your them to our fram
 
 <https://mensuel.framapad.org/p/4p5ySWmBHB>
 
-Version française sur la page Meetup : <https://www.meetup.com/OpenStreetMap-Belgium/events/236264469/>  
-Nederlands version op Meetup pagina : <https://www.meetup.com/OpenStreetMap-Belgium/events/236264469/>
+Version française sur la [page Meetup](https://www.meetup.com/OpenStreetMap-Belgium/events/236264469/)  
+Nederlands version op [Meetup pagina](https://www.meetup.com/OpenStreetMap-Belgium/events/236264469/)
 
 ---
 
