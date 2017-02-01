@@ -20,4 +20,7 @@ Nederlands versie op [Meetup pagina](https://www.meetup.com/OpenStreetMap-Belgiu
 
 **Location:**
 
-To be determined
+[Lebowski's](http://lebowskis.be/)  
+Boomgaardstraat 350 - 2600 Antwerpen
+
+<http://www.openstreetmap.org/node/4652978871>
