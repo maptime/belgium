@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: OpenStreetMap meeting in Bruxssels on February, 21
+title: OpenStreetMap meeting in Brussels on February, 21
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/237424260/
 ---
 
