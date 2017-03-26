@@ -3,6 +3,12 @@ layout: event
 category: event
 title: OpenStreetMap meeting in Brussels
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/238582538/
+location:
+  name: The Sister Brussels Café
+  website: http://www.thesister-brussels.com/
+  address: Rue Chair et Pain 3 - 1000 Bruxelles
+  osm: https://www.openstreetmap.org/node/4284192891
+time: 19:00
 ---
 
 **Let's build a community with everybody interested in OpenStreetMap!**
@@ -13,12 +19,3 @@ Tell us what you'd like discuss/present/share. You can add them to our framapad:
 
 Version française sur la [page Meetup](https://www.meetup.com/OpenStreetMap-Belgium/events/238582538/)
 Nederlands versie op [Meetup pagina](https://www.meetup.com/OpenStreetMap-Belgium/events/238582538/)
-
----
-
-**Location:**
-
-[The Sister Brussels Café](http://www.thesister-brussels.com/)
-Rue Chair et Pain 3 - 1000 Bruxelles
-
-<http://www.openstreetmap.org/node/4284192891>

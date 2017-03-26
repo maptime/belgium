@@ -5,9 +5,25 @@ layout: default
 <h2>{{page.title}}</h2>
 {{content}}
 
+{% if page.location %}
+<hr>
+<p>
+  <strong>Location :</strong>
+  <address>
+    {% if page.location.website %}
+    <strong><a href="{{page.location.website}}" target="_blank">{{page.location.name}}</a></strong><br>
+    {% else %}
+    <strong>{{page.location.name}}</strong><br>
+    {% endif %}
+    {{page.location.address}}<br>
+    <a href="{{page.location.osm}}" target="_blank">{{page.location.osm}}</a>
+  </address>
+</p>
+{% endif %}
+
 <div class='keyline-all round pad2 col12 clearfix'>
   <div class='col8 pad0y'>
-    Join us: <span class='quiet'>{{page.date | date:"%A, %b %d %Y"}}</span>
+    Join us: <span class='quiet'>{{page.date | date:"%A, %b %d %Y"}}{% if page.time %} at {{page.time}}{% endif %}</span>
   </div>
   <div class='col4'>
     <a class='button fill-orange block' href='{{page.rsvp}}'>RSVP</a>
