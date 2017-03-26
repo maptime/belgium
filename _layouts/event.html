@@ -7,7 +7,7 @@ layout: default
 
 {% if page.location %}
 <hr>
-<div>
+<p>
   <strong>Location :</strong>
   <address>
     {% if page.location.website %}
@@ -18,7 +18,7 @@ layout: default
     {{page.location.address}}<br>
     <a href="{{page.location.osm}}" target="_blank">{{page.location.osm}}</a>
   </address>
-</div>
+</p>
 {% endif %}
 
 <div class='keyline-all round pad2 col12 clearfix'>
