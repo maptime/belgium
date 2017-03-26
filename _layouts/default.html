@@ -102,7 +102,7 @@
   '{% for item in site.categories.event %}'
     if (new Date('{{item.date | date_to_xmlschema }}').getTime() >= new Date().getTime()) {
       date = '{{item.date | date:"%Y/%-m/%-d"}}';
-      formatted = '{{item.date | date:"%A, %b %d %Y"}}';
+      formatted = '{{item.date | date:"%A, %d %B %Y"}}';
       link = '{{item.rsvp}}';
     }
   '{% endfor %}'
