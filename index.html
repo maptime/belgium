@@ -9,7 +9,22 @@ layout: default
   {% if item.category == 'event' %}
 
     <h2><a href='{{site.baseurl}}{{item.url}}'>{{item.title}}</a></h2>
-    {{item.content}}
+    {{item.excerpt}}
+{% if item.location %}
+    <hr>
+    <div>
+      <strong>Location :</strong>
+      <address>
+        {% if item.location.website %}
+        <strong><a href="{{item.location.website}}" target="_blank">{{item.location.name}}</a></strong><br>
+        {% else %}
+        <strong>{{item.location.name}}</strong><br>
+        {% endif %}
+        {{item.location.address}}<br>
+        <a href="{{item.location.osm}}" target="_blank">{{item.location.osm}}</a>
+      </address>
+    </div>
+{% endif %}
     <div class='keyline-all round pad2 col12 clearfix'>
       <div class='col8 pad0y'>
         Join us: <span class='quiet'>{{item.date | date:"%A, %d %B %Y"}}</span>
