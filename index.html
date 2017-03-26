@@ -9,7 +9,7 @@ layout: default
   {% if item.category == 'event' %}
 
     <h2><a href='{{site.baseurl}}{{item.url}}'>{{item.title}}</a></h2>
-    {{item.content | slice: 0, 100}}
+    {{item.content | truncatewords: 100}}
 {% if item.location %}
     <hr>
     <p>
