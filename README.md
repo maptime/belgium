@@ -5,7 +5,7 @@ Hosting your own Maptime chapter website? **Starter** is a simple Jekyll theme t
 
 ### Getting started
 
-* If we've finished onboarding your new chapter into the Maptime organization, then should already have *Starter* cloned into the `gh-pages` branch of your chapter repo and have been given you privileges to push to it.  Please skip ahead and begin to customize your site.  
+* If we've finished onboarding your new chapter into the Maptime organization, then should already have *Starter* cloned into the `gh-pages` branch of your chapter repo and have been given you privileges to push to it.  Please skip ahead and begin to customize your site.
 
 * Not yet in the Maptime fold?  Fill out [this form](http://maptime.io/start/#start-form) and we'll get you set up!
 
@@ -87,6 +87,10 @@ Events are for planned meetups with RSVP information. Note that date used in the
 | `category` | Yes | `event` | This value should always be `event`. |
 | `title` | Yes | Event title |
 | `rsvp` | Yes | URL to RSVP | This should be a URL to an [Eventbrite](http://eventbrite.com) or other service event page. |
+| `location.name` | No | Location name |
+| `location.website` | No | Location website |
+| `location.website` | No | Location website |
+| `location.osm` | No | OpenStreetMap node/way link to the location |
 
 
 #### Post
