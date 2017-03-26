@@ -23,7 +23,7 @@ layout: default
 
 <div class='keyline-all round pad2 col12 clearfix'>
   <div class='col8 pad0y'>
-    Join us: <span class='quiet'>{{page.date | date:"%A, %b %d %Y"}}{% if page.time %} at {{page.time}}{% endif %}</span>
+    Join us: <span class='quiet'>{{page.date | date:"%A, %d %B %Y"}}{% if page.time %} at {{page.time | date:"%H:%M"}}}{% endif %}</span>
   </div>
   <div class='col4'>
     <a class='button fill-orange block' href='{{page.rsvp}}'>RSVP</a>
