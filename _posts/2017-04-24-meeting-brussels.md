@@ -8,7 +8,7 @@ location:
   website: http://www.thesister-brussels.com/
   address: Rue Chair et Pain 3 - 1000 Bruxelles
   osm: https://www.openstreetmap.org/node/4284192891
-time: 19:00
+start_time: 19:00
 ---
 
 **Let's build a community with everybody interested in OpenStreetMap!**
