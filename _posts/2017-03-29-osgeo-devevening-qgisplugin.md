@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: OSGeoBE Dev Evening : QGIS Plugin
+title: OSGeoBE Dev Evening - QGIS Plugin
 rsvp: https://framadate.org/EIhUyakmqZThjcpc
 location:
   name: ESI (Haute Ecole de Bruxelles)
