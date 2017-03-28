@@ -88,7 +88,7 @@ Events are for planned meetups with RSVP information. Note that date used in the
 | `title` | Yes | Event title |
 | `rsvp` | Yes | URL to RSVP | This should be a URL to an [Eventbrite](http://eventbrite.com) or other service event page. |
 | `location.name` | No | Location name |
-| `location.website` | No | Location website |
+| `location.address` | No | Location address |
 | `location.website` | No | Location website |
 | `location.osm` | No | OpenStreetMap node/way link to the location |
 
