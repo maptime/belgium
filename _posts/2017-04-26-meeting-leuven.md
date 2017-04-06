@@ -6,6 +6,7 @@ rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/239007607/
 location:
   name: KUL, Building C
   address: Once on the campus go under the first floor bridge between buildings C and E. Then go through the door on your right.
+  osm: https://www.openstreetmap.org/way/71834727
 ---
 
 The 300 participants of the National Mapathon managed to get a lot of work done. Those tasks need to be reviewed and either corrected and validated. Or they should be rejected and feedback sent to the mappers, so they can learn from the experience.
