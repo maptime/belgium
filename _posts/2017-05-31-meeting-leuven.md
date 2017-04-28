@@ -9,9 +9,9 @@ location:
   osm: https://www.openstreetmap.org/way/339551250
 ---
 
-We can work on a task from tasks.hotosm.org.
+We can work on a task from <http://tasks.hotosm.org>.
 
-Or we can do some local mapping. Please write under reactions what is your preference.
+Or we can do some local mapping. Please write under reactions (in Meetup page) what is your preference.
 
 From 2-4th of June I'll go to SotM-FR in Avignon to present a workshop about mapping Public Transport. So I'll probably have a presentation ready about that topic. But we don't have to tackle such an advanced and somewhat specialised topic.
 
