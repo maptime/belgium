@@ -6,7 +6,7 @@ rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/241820301/
 location:
   name: Arboretum Heverlee
   address: Er is een infobord aan het arboretum, net voorbij de brug onder de E40, schuin naar rechts
-  osm: https://www.openstreetmap.org/node/3851430143
+  osm: https://www.openstreetmap.org/node/2722558518
 ---
 
 Let's go outside for a change and map the trees of the arboretum of Heverlee as precisely as we can.
