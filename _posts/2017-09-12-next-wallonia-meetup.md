@@ -5,7 +5,7 @@ title: Next Wallonia OpenStreetMap meetup
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/242544281/
 location:
   name: Mundo-N
-  address: 98 Rue Nanon, 5000 Namur
+  address: Rue Nanon 98 - 5000 Namur
   osm: http://www.openstreetmap.org/way/179783319
   website: http://www.mundo-namur.org/
 ---
