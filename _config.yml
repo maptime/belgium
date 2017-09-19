@@ -2,7 +2,7 @@ baseurl: /belgium
 permalink: pretty
 future: true
 markdown: kramdown
-paginate: 5
+paginate: 10
 repo: belgium
 github_org: maptime
 maptime:
