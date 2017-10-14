@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: Meetup Arlon
+title: OpenStreetMap meeting in Arlon
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/243327967/
 location:
   name: Les Arcades
