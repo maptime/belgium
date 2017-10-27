@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: OpenStreetMap meeting in Arlon
-rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/243327967/
+rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/244198136/
 location:
   name: Les Arcades
   address: Place Léopold 5 - 6700 Arlon
