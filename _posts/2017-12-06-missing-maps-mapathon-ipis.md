@@ -5,7 +5,7 @@ title: Missing Maps Mapathon at IPIS
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/245291588/
 location:
   name: IPIS Research
-  webiste: http://ipisresearch.be/
+  website: http://ipisresearch.be/
   address: Italiëlei 98A - 2000 Antwerpen
   osm: https://www.openstreetmap.org/way/378681739
 ---
