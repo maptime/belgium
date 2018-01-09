@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: OpenStreetMap meeting in Brussels
+title: OpenStreetMap official meeting in Brussels
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/246652975/
 location:
   name: BeCentral
