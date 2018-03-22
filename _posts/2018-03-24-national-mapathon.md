@@ -2,7 +2,7 @@
 layout: event
 category: event
 title: National Missing Maps Mapathon 2018
-rsvp:
+rsvp: https://www.eventbrite.com/e/national-missing-maps-mapathon-2018-tickets-43284758879
 ---
 
 The third national mapathon will take place on March 24th!
