@@ -13,7 +13,7 @@ In order to cope with crisis situations quickly and offer help efficiently, huma
 
 We will provide you with a computer and an Internet connection, and that's all you need! It is not difficult. In no time you are working as a road mapper. The response to the project is large, the number of volunteers is growing worldwide, and increasingly mapping parties or mapathons organized where volunteers come together to map a larger area at once.
 
-**Where:** Brussels, Ghent, Leuven, Liège, Namur, Mons and Louvain-la-Neuve
+**Where:** Brussels, Ghent, Leuven, Liège, Namur, Mons and Louvain-la-Neuve  
 **When:** Saturday, March 26th, 10h - 16h
 
 Register [here](https://www.meetup.com/OpenStreetMap-Belgium/events/247922954/) to help out the organisation. We will get back to you !
