@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: FOSS4G Belgium
+title: FOSS4G Belgium 2018
 rsvp: https://2018.foss4g.be/
 location:
   name: bel.brussels
